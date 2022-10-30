@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="keyboard_vis">Keyboard visible</string>
+    <string name="keyboard_hid">Keyboard hidden</string>
+    <string name="portrait">Portrait orientation</string>
+    <string name="landscape">Landscape orientation</string>
+    <string name="hello_users">Hello Users!</string>
+    <string name="input_text">Input Text</string>
+
+</resources>

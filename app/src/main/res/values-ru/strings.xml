@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Лабораторная работа 2</string>
+    <string name="keyboard_vis">Клавиатура открыта</string>
+    <string name="keyboard_hid">Клавиатура скрыта</string>
+    <string name="portrait">Портретная ориентация</string>
+    <string name="landscape">Альбомная ориентация</string>
+    <string name="hello_users">Здравствуйте, пользователи!</string>
+    <string name="input_text">Введите текст</string>
+</resources>
